@@ -97,13 +97,13 @@ section .info p{
     font-size: 14px;
 }
 
-div.footer {
+.footer {
     background: #fff;
     margin 0 auto;
 
 }
 
-div.footer h1 {
+.footer h1 {
     text-decoration: none;
     padding: 15px 0;
 }
