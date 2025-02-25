@@ -96,3 +96,14 @@ section div.cart-item {
 section .info p{
     font-size: 14px;
 }
+
+div.footer {
+    background: #fff;
+    margin 0 auto;
+
+}
+
+div.footer h1 {
+    text-decoration: none;
+    padding: 15px 0;
+}
